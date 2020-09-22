@@ -1,2 +1,2 @@
-# CollisionAlgorithmMaster
-Algorithm for colliding rectangles
+# collisionAlgorithm
+Algorithm to detect collision between two objects
